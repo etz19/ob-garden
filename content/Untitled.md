@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Untitled
 draft: false
 tags:
   - example-tag
