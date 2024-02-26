@@ -1,3 +1,10 @@
+---
+title: Example Title
+draft: false
+tags:
+  - example-tag
+---
+ 
 看起来您在尝试使用 `npx quartz create` 命令时遇到了 `ERR_TTY_INIT_FAILED` 错误，这表明在尝试初始化终端时发生了问题。这个问题通常与 Node.js 如何与您的终端或命令行界面交互有关。考虑到您已经遵循了基本的故障排除步骤，我们可以尝试以下更具体的解决方案：
 
 1. **运行环境检查**：
