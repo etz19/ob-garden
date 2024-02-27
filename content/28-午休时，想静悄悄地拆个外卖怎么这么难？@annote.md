@@ -1,7 +1,8 @@
 ---
 UID: 20230424124904
-title: "srAnnote@午休时，想静悄悄地拆个外卖怎么这么难？"
-alias: ["srAnnote@午休时，想静悄悄地拆个外卖怎么这么难？"]
+title: 没啥用的知识 1
+aliases:
+  - srAnnote@午休时，想静悄悄地拆个外卖怎么这么难？
 type: Simpread
 index: 28
 ---
