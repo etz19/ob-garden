@@ -2,12 +2,11 @@
 title: Welcome to ETZ's Garden
 ---
 <div style="text-align: center; padding: 0 20px;">
-  <img src="media/index/icon.png" alt="icon" width="150" />
+  <img src="media/index/icon.jpg" alt="icon" width="150" />
   <div style="font-size: 24px; margin-top: 20px;">
-    Komeno
+    ETZ Garden
   </div>
   <p style="margin-top: 20px;">
-    Software Engineer
   </p>
 </div>
 
