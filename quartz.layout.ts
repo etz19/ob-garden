@@ -15,10 +15,10 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    //Component.Breadcrumbs(),
+    //Component.ArticleTitle(),
+    //Component.ContentMeta(),
+    //Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
@@ -27,7 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Divider(),
         Component.DesktopOnly(Component.RecentNotes({
       title: "Latest",
-      limit: 9,
+      limit: 8,
     }))
   ],
   right: [
