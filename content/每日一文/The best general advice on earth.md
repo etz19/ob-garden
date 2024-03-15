@@ -1,0 +1,45 @@
+
+by James Somers, July 25, 2012
+These are excerpts (emphasis mine) from William James’s 1890 classic, Principles of Psychology, Chapter IV, “Habit”:
+
+**"The great thing, then, in all education, is to make our nervous system our ally instead of our enemy. It is to fund and capitalize our acquisitions, and live at ease upon the interest of the fund."**
+
+教育中最重要的事情，是让我们的神经系统成为我们的盟友而非敌人。这需要我们为我们的获得进行资金化和资本化，并且能够轻松地依靠这些基金的利息生活。
+
+**Analysis:**
+- **Ally**: (盟友 / méngyǒu) Basic meaning: A person, group, or nation that is associated with another or others for some common cause or purpose. Phonetic: [ˈælaɪ]. In this context, it refers to making our nervous system work in our favor. *Example sentence:* Forming habits that promote health turns our body into an ally in our overall well-being.
+- **Capitalize**: (资本化 / zīběnhuà) Basic meaning: To take advantage of something; turn something to one's advantage. Phonetic: [ˈkæpɪtəˌlaɪz]. In this context, it means to use our acquired knowledge or skills as a foundation for future growth or advantage. *Example sentence:* Successful entrepreneurs know how to capitalize on market trends.
+
+**"For this we must make automatic and habitual, as early as possible, as many useful actions as we can, and guard against the growing into ways that are likely to be disadvantageous to us, as we should guard against the plague. The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work."**
+
+为此，我们必须尽早使尽可能多的有用行为变得自动化和习惯化，并防止自己养成可能对我们不利的习惯，就像我们防范瘟疫一样。我们日常生活中的更多细节如果能够无需努力就自动进行，我们的高级心智能力就能更多地被释放出来，从事它们真正的工作。
+
+**Analysis:**
+- **Automatic**: (自动的 / zìdòng de) Basic meaning: Operating by itself with little or no direct human control. Phonetic: [ɔːˈtɒmətɪk]. In this context, it refers to actions or behaviors that become unconscious or habitual. *Example sentence:* Driving becomes automatic after years of practice.
+- **Automatism**: (自动机制 / zìdòng jīzhì) Basic meaning: The performance of actions without conscious thought or intention. Phonetic: [ɔːˈtɒməˌtɪzəm]. In this context, it suggests a process where tasks are completed without conscious effort, freeing the mind for more complex tasks. *Example sentence:* Learning to type quickly involves developing a level of automatism.
+
+**"Seize the very first possible opportunity to act on every resolution you make, and on every emotional prompting you may experience in the direction of the habits you aspire to gain. It is not in the moment of their forming, but in the moment of their producing motor effects, that resolves and aspirations communicate the new ‘set’ to the brain."**
+
+抓住每一个可能的机会来对你做出的每一个决议和你可能经历的朝向你渴望养成的习惯的每一个情感驱使采取行动。决心和志向在形成的那一刻并不会向大脑传达新的“设定”，而是在它们产生行动效果的那一刻。
+
+**Analysis:**
+- **Seize**: (抓住 / zhuā zhù) Basic meaning: Take hold of suddenly and forcibly. Phonetic: [siːz]. In this context, it means to take immediate action on something. *Example sentence:* Seize every opportunity to improve your skills.
+- **Resolution**: (决议 / juéyì) Basic meaning: A firm decision to do or not to do something. Phonetic: [ˌrezəˈluːʃn]. In this context, it refers to a personal decision or commitment towards a goal. *Example sentence:* New Year's resolutions often focus on health and personal development.
+
+**"No matter how full a reservoir of maxims one may possess, and no matter how good one’s sentiments may be, if one have not taken advantage of every concrete opportunity to act, one’s character may remain entirely unaffected for the better."**
+
+无论一个人拥有多么丰富的格言库存，无论一个人的情感有多么善良，如果一个人没有抓住每一个具体的行动机会，一个人的品格可能完全不会因此变得更好。
+
+**Analysis:**
+- **Reservoir**: (库存 / kùcún) Basic meaning: A large natural or artificial lake used as a source of water supply. Phonetic: [ˈrezərvwɑːr]. In this context, it metaphorically refers to a store or supply of something (e.g., wisdom, knowledge). *Example sentence:* A well-read person has a vast reservoir of knowledge to draw upon.
+- **Maxim**: (格言 / géyán) Basic meaning: A short, pithy statement expressing a general truth or rule of conduct. Phonetic: [ˈmæksɪm]. In this context, it refers to concise principles or truths that guide behavior. *Example sentence:* "Treat others as you wish to be treated" is a universal maxim.
+
+**"As a final practical maxim, relative to these habits of the will, we may, then, offer something like this: Keep the faculty of effort alive in you by a little gratuitous exercise every day. That is, be systematically ascetic or heroic in little unnecessary points, do every day or two something for no other reason than that you would rather not do it, so that when the hour of dire need draws nigh, it may find you not unnerved."**
+
+作为一个与意志习惯相关的最后一个实用格言，我们可以提出如下建议：通过每天一点无偿的练习保持你的努力能力。也就是说，在一些不必要的小事上有系统地进行禁欲或英勇的行为，每一
+
+两天做一些事情，仅仅因为你本不想做它，这样当迫切需要的时刻临近时，它会发现你并未感到慌乱。
+
+**Analysis:**
+- **Gratuitous**: (无偿的 / wúcháng de) Basic meaning: Given or done free of charge. Phonetic: [ɡrəˈtjuːɪtəs]. In this context, it suggests doing something without expecting a reward or return. *Example sentence:* Volunteering is a form of gratuitous work that benefits both the community and the volunteer.
+- **Ascetic**: (禁欲的 / jìnyù de) Basic meaning: Characterized by or suggesting the practice of severe self-discipline and abstention from all forms of indulgence, typically for religious reasons. Phonetic: [əˈsɛtɪk]. In this context, it implies practicing self-discipline in small ways to strengthen willpower. *Example sentence:* The ascetic lifestyle of monks includes simple living, prayer, and fasting.
