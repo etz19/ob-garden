@@ -1,6 +1,9 @@
 ---
 title: 
 draft: false
-tags: 
+tags:
+  - 每日一文
+date:
+  - <% tp.date.now("YYYY-MM-DD") %>
 ---
  
